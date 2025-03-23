@@ -4,6 +4,6 @@ Mi nombre es Julio, soy de Venezuela, trabajo como desarrollador y administrador
 
 ### Contacto
 
-* Puedes contactarme por [acá](https://jure-ve.github.io/)
+* Puedes contactarme por [acá](https://juredev.com/)
 
 
